@@ -4,6 +4,7 @@
   "description": "a tool for benckmarking polkadot testnet",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "polkatest"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Alexader/polkabench/issues"
   },
-  "homepage": "https://github.com/Alexader/polkabench#readme"
+  "homepage": "https://github.com/Alexader/polkabench#readme",
+  "dependencies": {
+    "@polkadot/api": "^6.7.1"
+  }
 }
