@@ -1,0 +1,19 @@
+{
+  "name": "polkabench",
+  "version": "1.0.0",
+  "description": "a tool for benckmarking polkadot testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "polkatest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexader/polkabench.git"
+  },
+  "author": "Alexader",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alexader/polkabench/issues"
+  },
+  "homepage": "https://github.com/Alexader/polkabench#readme"
+}
